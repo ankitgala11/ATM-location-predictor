@@ -1,4 +1,4 @@
-# Final-Year-Stack
+A portal that helps find the best location to set up an ATM in a region/area based on geolocation parameters using clustering algorithms
 
 ### https://atm-location-recommender.herokuapp.com/
 
