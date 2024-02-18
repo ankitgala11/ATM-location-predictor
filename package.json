@@ -1,0 +1,17 @@
+{
+  "name": "fyp",
+  "version": "1.0.0",
+  "description": "Location Prediction for New ATMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atm"
+  ],
+  "author": "Ankit,Jay, Hrishikesh",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
